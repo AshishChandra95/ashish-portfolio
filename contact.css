@@ -1,0 +1,37 @@
+.navigation{
+    color:white;
+    margin-left : 20%;
+    border-radius: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 60px;
+    margin-bottom : 10px;
+    padding: 30px;
+    width : 60%;
+    background-color:black  
+}
+
+.ullist {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 20px;
+}
+
+.section{
+    height : 700p;
+  }
+.box{
+    height :300px;
+    width : 500px;
+    background-color : black;
+    color : white;
+    text-align : center;
+    margin-bottom : 50px;
+    padding-top : 80px;
+  }
+footer{
+    color: white;
+    background-color: black;
+}
